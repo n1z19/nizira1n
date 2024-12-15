@@ -1,7 +1,6 @@
 ## nizira1n
 nizira1n for MacOS, for linux im still working on it.
 ## Changelog
-## 1.0
 
 UI and Icon Update
 
